@@ -3,5 +3,5 @@
 
 <img width="1728" alt="#" src="https://user-images.githubusercontent.com/113842155/209456871-caa63a8d-040c-4885-8555-75ed92fb3cd3.png">
 
-- Server deploy: https://render.com
-- App deploy: https://vercel.com
+- **Server is deployed** on https://render.com
+- **App is deployed** on https://vercel.com
