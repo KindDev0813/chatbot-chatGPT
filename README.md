@@ -7,3 +7,4 @@
 
 - **App is deployed** on https://vercel.com
 - **Server is deployed** on https://render.com
+ 
